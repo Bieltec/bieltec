@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Henrique.
 
 -  Hoje trabalho com back-end .Net...
--  Estudando Asp.Net + Angular ...
+
 
 
 <div align="center" >
